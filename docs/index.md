@@ -9,10 +9,10 @@ Rather than treating agreement as correctness, AVMS treats agreement as a *hypot
 The complete AVMS specification is available in the following formats:
 
 - 📘 **Markdown (recommended for browsing):**  
-  [`docs/AVMS.md`](docs/AVMS.md)
+  [`docs/AVMS.md`](AVMS.md)
 
 - 📄 **PDF (formatted version):**  
-  [`docs/AVMS.pdf`](docs/AVMS.pdf)
+  [`docs/AVMS.pdf`](AVMS.pdf)
 
 These documents contain the full formal description of the AVMS methodology, including all phases, divergence handling, adversarial validation logic, and MP-AVMS extensions.
 
@@ -150,4 +150,5 @@ Contributions, critiques, and extensions are welcome.
 Licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**.
 
 See [`LICENSE.md`](LICENSE.md) for full terms.
+
 
